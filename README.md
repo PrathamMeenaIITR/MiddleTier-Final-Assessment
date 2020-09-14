@@ -46,15 +46,15 @@ Problem Statement: Mobile Service Provider needs an application for Customer to 
 ## ScreenShots
 #        1. Application Executed
 ![alt text](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/1.Server%20Created.png)
-#        2. Getting Information of all accounts succesfully
+#        2. Getting Information of all accounts succesfully (Get)
 ![alt text](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/2.Getting%20All%20Accounts%20Info.png)
-#        3. Getting Information of a specific account
+#        3. Getting Information of a specific account (Get)
 ![alt text](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/3.Getting%20Required%20Account%20Information.png)
-#        4. Account Not existing error
+#        4. Account Not existing error (Get)
 ![alt text](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/4.Showing%20Account%20not%20exist.png)
-#        5. Recharge of required amount done succesfully
+#        5. Recharge of required amount done succesfully (Put)
 ![alt text](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/5.Recharge%20Done%20of%20Required%20Account.png)
-#        6. Added New User Succesfully
+#        6. Added New User Succesfully (Post)
 ![alt text](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/6.Added%20New%20User.png)
-#        7. Database table Preview 
-![alt texxt](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/7.Database%20Preview.png)
+#        7. Table Preview 
+![alt texxt](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/TablePreview.png)
