@@ -54,3 +54,7 @@ Problem Statement: Mobile Service Provider needs an application for Customer to 
 ![alt text](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/4.Showing%20Account%20not%20exist.png)
 #        5. Recharge of required amount done succesfully
 ![alt text](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/5.Recharge%20Done%20of%20Required%20Account.png)
+#        6. Added New User Succesfully
+![alt text](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/6.Added%20New%20User.png)
+#        7. Database table Preview 
+![alt texxt](https://github.com/PrathamMeenaIITR/MiddleTier-Final-Assessment/blob/master/mobileRechargeApplication_992042/ResultScreenShots/7.Database%20Preview.png)
